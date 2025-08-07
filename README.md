@@ -16,16 +16,17 @@ Este repositorio contiene material de estudio, ejercicios y ejemplos desarrollad
 
 ## 📂 Estructura del Proyecto
 
-JAVA-UNIVERSIDAD/
-├── Programación-II/
-│   ├── apuntes.md
-│   ├── ejemplos/
-│   └── ejercicios/
-│
-├── POO/
-│   ├── definiciones.md
-│   ├── ejemplos/
-│   ├── diagramas/
-│   └── ejercicios/
-│
-└── README.md
+## 📂 Estructura del Proyecto
+
+- JAVA-UNIVERSIDAD/
+  - Programación-II/
+    - apuntes.md
+    - ejemplos/
+    - ejercicios/
+  - POO/
+    - definiciones.md
+    - ejemplos/
+    - diagramas/
+    - ejercicios/
+  - README.md
+
