@@ -9,3 +9,7 @@ production/
 # Ignorar todo en POO/Ejercicios menos el código fuente
 POO/Ejercicios/*
 !POO/Ejercicios/src/**
+
+# Ignorar PDFs
+PDFs/
+*.pdf
