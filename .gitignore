@@ -2,7 +2,7 @@
 POO/*
 
 # PERO no ignorar la carpeta Ejercicios dentro de POO
-!POO/Ejercicios/
+!POO/Ejercicios/src/
 
 # Ignorar configuración de IntelliJ/IDEA
 POO/Ejercicios/.idea/
