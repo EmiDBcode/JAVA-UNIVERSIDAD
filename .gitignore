@@ -1,0 +1,17 @@
+# Ignorar todo dentro de POO
+POO/*
+
+# PERO no ignorar la carpeta Ejercicios dentro de POO
+!POO/Ejercicios/
+
+# Ignorar configuración de IntelliJ/IDEA
+POO/Ejercicios/.idea/
+*.iml
+
+# Ignorar directorio de compilación
+out/
+production/
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
