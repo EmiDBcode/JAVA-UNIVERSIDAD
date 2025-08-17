@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class MainGuiaSimpleTP_02 {
     public static void main(String[] args) {
 
+        //------- CONDICIONALES Y BUCLES ---------------
+
         //----------------Ejercicio_07------------------
 
         Scanner num_00 = new Scanner(System.in);
@@ -18,6 +20,11 @@ public class MainGuiaSimpleTP_02 {
         int numero_01 = num_01.nextInt();
         Ej08_introducidos.introducidos(numero_01);
 
+        //-----------EJERCICIO_09------------------------
+
+        System.out.printf("Se tomara la primera entrada que hizo: "+ numero_00 );
+        System.out.println("Se mostrara el producto de los 10 numeros impares, que seran los consecuentes al numero ingresado");
+        Ej09_producto.productoDeLosImpares(numero_00);
 
 
     }
