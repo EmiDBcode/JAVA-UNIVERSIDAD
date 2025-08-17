@@ -47,7 +47,10 @@ class MainGuiaSimpleTP extends javax.swing.JFrame {
 
         //------------EJERCICIO_05-----------------------------
 
-
+        Scanner nota_01 = new Scanner(System.in);
+        System.out.println("Ingrese una nota: ");
+        int nota_numero = nota_01.nextInt();
+        Ej05_Nota.estadoDeAprobacion(nota_numero);
 
     }
 }
