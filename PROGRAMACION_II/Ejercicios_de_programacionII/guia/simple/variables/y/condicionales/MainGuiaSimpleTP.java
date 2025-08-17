@@ -32,13 +32,12 @@ class MainGuiaSimpleTP extends javax.swing.JFrame {
         int segundo_numero = sc.nextInt();
 
         //Llamada de nuestra funcion, con entrada de valores
-        Ej02_Iguales.comparaNumeros(primer_numero,segundo_numero);
+        boolean iguales = Ej02_Iguales.comparaNumeros(primer_numero,segundo_numero);
 
-
-
-
-
-
-
+        //--------------------------------------------------------
+        //----------------EJERCICIO_03----------------------------
+        if (iguales){
+            Ej03_Mayor.mayor(primer_numero,segundo_numero);
+        }
     }
 }
