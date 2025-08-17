@@ -9,8 +9,14 @@ public class MainGuiaSimpleTP_02 {
 
         Scanner num_00 = new Scanner(System.in);
         System.out.printf("Ingrese un numero: ");
-        int num = num_00.nextInt();
-        Ej07_cuadrado.cuadrado(num);
+        int numero_00 = num_00.nextInt();
+        Ej07_cuadrado.cuadrado(numero_00);
+
+        //------------EJERCICIO_08-----------------------
+        Scanner num_01 = new Scanner(System.in);
+        System.out.printf("Ingrese un numero: ");
+        int numero_01 = num_01.nextInt();
+        Ej08_introducidos.introducidos(numero_01);
 
 
 
