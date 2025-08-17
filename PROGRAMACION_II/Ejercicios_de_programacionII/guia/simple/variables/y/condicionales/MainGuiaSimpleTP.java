@@ -39,5 +39,15 @@ class MainGuiaSimpleTP extends javax.swing.JFrame {
         if (iguales){
             Ej03_Mayor.mayor(primer_numero,segundo_numero);
         }
+        //---------------EJRERCICIO_04-----------------------------
+        System.out.printf("Ingrese un numero entre 0 y 9999");
+        Scanner num04 = new Scanner(System.in);
+        int digito_numero = num04.nextInt();
+        Ej04_Digitos.digito(digito_numero);
+
+        //------------EJERCICIO_05-----------------------------
+
+
+
     }
 }
