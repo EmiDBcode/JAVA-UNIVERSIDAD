@@ -2,7 +2,7 @@ package guia.simple.variables.y.condicionales;
 
 import java.util.Scanner;
 
-class MainGuiaSimpleTP extends javax.swing.JFrame {
+class MainGuiaSimpleTP_01 extends javax.swing.JFrame {
     public static void main(String[] args) {
 
         //------------------------------------------------------
