@@ -1,4 +1,4 @@
-package guia.simple.variables.y.condicionales;
+package guiaSimple.variablesYcondicionales;
 
 public class Ej03_Mayor {
 

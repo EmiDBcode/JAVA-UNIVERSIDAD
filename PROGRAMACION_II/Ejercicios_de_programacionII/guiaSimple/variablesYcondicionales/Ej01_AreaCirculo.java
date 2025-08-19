@@ -1,4 +1,4 @@
-package guia.simple.variables.y.condicionales;
+package guiaSimple.variablesYcondicionales;
 
 public class Ej01_AreaCirculo {
     public static double areaCirculo (int radio){

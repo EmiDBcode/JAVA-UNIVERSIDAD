@@ -1,4 +1,4 @@
-package guia.simple.variables.y.condicionales;
+package guiaSimple.variablesYcondicionales;
 
 public class Ej04_Digitos {
 

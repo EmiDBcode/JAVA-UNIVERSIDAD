@@ -1,4 +1,4 @@
-package guia.simple.variables.y.condicionales;
+package guiaSimple.variablesYcondicionales;
 
 import java.util.Scanner;
 
