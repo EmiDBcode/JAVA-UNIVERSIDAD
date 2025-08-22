@@ -1,4 +1,4 @@
-package guiaSimple.bucles;
+package guiaSimple.bucles.;
 
 import static java.util.function.Predicate.not;
 

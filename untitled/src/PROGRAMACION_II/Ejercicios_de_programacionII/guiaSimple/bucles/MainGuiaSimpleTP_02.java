@@ -1,4 +1,4 @@
-package guiaSimple.bucles;
+package guiaSimple.bucles.;
 
 import java.util.Scanner;
 
@@ -26,6 +26,17 @@ public class MainGuiaSimpleTP_02 {
         System.out.println("Se mostrara el producto de los 10 numeros impares, que seran los consecuentes al numero ingresado");
         Ej09_producto.productoDeLosImpares(numero_00);
 
+
+
+        //-----------EJERCICIO_10-------------------------
+
+        Ej10_SumaDeSueldos.suma();
+
+        //-----------EJERCICIO_11-------------------------
+
+
+
+        }
 
     }
 }
