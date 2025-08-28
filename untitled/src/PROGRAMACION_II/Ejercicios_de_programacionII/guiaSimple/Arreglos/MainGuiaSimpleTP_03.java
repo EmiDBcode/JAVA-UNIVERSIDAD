@@ -19,6 +19,13 @@ public class MainGuiaSimpleTP_03 {
 
         Ej13_intercalados ordenados = new Ej13_intercalados();
         System.out.printf(ordenados.toString());
+        //-----------Ejercicio_15--------------------------
+
+        Ej15_matriz m = new Ej15_matriz();
+        System.out.println(m);                   // usa toString()
+        System.out.println(m.esSimetrica() ?
+                "La matriz es simétrica" : "La matriz NO es simétrica");;
+
 
     }
 
