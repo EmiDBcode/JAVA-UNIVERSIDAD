@@ -1,4 +1,4 @@
-package guiaSimple.bucles.;
+package guiaSimple.bucles;
 
 import java.util.Scanner;
 
@@ -35,8 +35,6 @@ public class MainGuiaSimpleTP_02 {
         //-----------EJERCICIO_11-------------------------
 
 
-
-        }
 
     }
 }

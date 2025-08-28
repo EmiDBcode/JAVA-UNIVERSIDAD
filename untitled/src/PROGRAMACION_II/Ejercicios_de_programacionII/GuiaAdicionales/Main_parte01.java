@@ -1,4 +1,4 @@
-package GuiaAdicionales;
+/*package GuiaAdicionales;
 
 import java.util.LinkedList;
 
@@ -8,3 +8,4 @@ public class Main_parte01 {
         list.add(1);
     }
 }
+*/
