@@ -15,6 +15,10 @@ public class MainGuiaSimpleTP_03 {
         intercalados.intercalados();
         System.out.printf(intercalados.toString());
 
+        //-------------Ejercicio_14----------------------------
+
+        Ej13_intercalados ordenados = new Ej13_intercalados();
+        System.out.printf(ordenados.toString());
 
     }
 
